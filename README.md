@@ -66,7 +66,7 @@
 <!-- EXEMPLO DE FUNCIONALIDADES: -->
 - [ ] Imagens de um Museu Nacional.
 - [ ] Descrição de um Museu Nacional.
-- [ ] Video de um Museu Nacional
+- [ ] Video de um Museu Nacional.
 
 ---
 

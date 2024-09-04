@@ -64,8 +64,8 @@
 ## ⚙️ Funcionalidades
 
 <!-- EXEMPLO DE FUNCIONALIDADES: -->
-- [x] Imagens de um Museu Nacional.
-- [x] Descrição de um Museu Nacional.
+- [ ] Imagens de um Museu Nacional.
+- [ ] Descrição de um Museu Nacional.
 - [ ] Video de um Museu Nacional
 
 ---

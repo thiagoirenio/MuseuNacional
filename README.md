@@ -50,12 +50,8 @@
 <p>
 	<strong> MuseuNacional</strong> é um projeto criado para o meu aprendizado pessoal.
 </p> 
-
-
-
-
 <p>
-	O desafio proposto foi criar um <strong>Site de um chále hotel</strong>. Neste projeto, usei <strong>Html & Css</strong>
+	O desafio proposto foi criar um <strong>Site de um Museu Nacional</strong>. Neste projeto, usei <strong>Html & Css</strong>
 </p> 
 
 
@@ -68,8 +64,9 @@
 ## ⚙️ Funcionalidades
 
 <!-- EXEMPLO DE FUNCIONALIDADES: -->
-- [x] Imagens de um chalé hotel.
-- [x] Descrição de um chlé hotel.
+- [x] Imagens de um Museu Nacional.
+- [x] Descrição de um Museu Nacional.
+- [ ] Video de um Museu Nacional
 
 ---
 
@@ -84,8 +81,8 @@
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
 <h1>
 	<p align="center">Imagem do site Home</p> 
-	<a href="https://thiagoirenio.github.io/ MuseuNacional/">Home</a><br>
-	<img src="https://thiagoirenio.github.io/ MuseuNacional/imagesReadme/site01.png" alt="Imagem do site 01" width="850" height="315" align="center"><br>
+	<a href="https://thiagoirenio.github.io/MuseuNacional/">Home</a><br>
+	<img src="https://thiagoirenio.github.io/MuseuNacional/imagesReadme/site01.png" alt="Imagem do site 01" width="850" height="315" align="center"><br>
 	<hr size="3" width="100%" align="center" style="border: 1px solid #000;">
 </h1>
 
@@ -93,7 +90,7 @@
 ### Widget em uma página externa
 <br>
 <p>
-	•🏠<a href="https://thiagoirenio.github.io/ MuseuNacional/">Home</a><br>
+	•🏠<a href="https://thiagoirenio.github.io/MuseuNacional/">Home</a><br>
 </p>
 
 
@@ -126,8 +123,8 @@ NeoVIM - Recomento usar também o LazyVim
 As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Front-End**  
-HTML5 <br>
-CSS3
+<b>HTML5</b> <br>
+<b>CSS3</b>
 
 #### **Prototipação** ([Figma](https://www.figma.com/))
 
